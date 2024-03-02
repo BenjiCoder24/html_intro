@@ -1,6 +1,11 @@
 
 # HTML Tutorial for Beginners
 
+## how to open the codeing environement
+
+open:
+<a href="https://colab.research.google.com/github/BenjiCoder24/html_intro/blob/main/html_tutorial_ipython.ipynb" target="_blank">Click here to open Google Colab</a>
+
 ## Introduction
 This tutorial will introduce you to the basics of HTML, the standard markup language for creating web pages.
 
